@@ -3,6 +3,9 @@
 Different codes are available in the main branch :
 - Inputs_changes: 
 - Input_data_set_august.csv:
-- Input_data_set_february.csv: 
+- Input_data_set_february.csv:
+- simulation_controlleur:
+- simulation_gain:
+- walls_out:
 
 For these codes, it is required that the file dm4bem.py is in the same folder as those ones in order for them to compile without errors.
