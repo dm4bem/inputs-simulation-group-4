@@ -7,6 +7,6 @@ Different codes are available in the main branch :
 - simulation_controlleur.ipynb : studies the influence of the controller on indoor temperature and thermal loads.
 - simulation_gain.ipynb : studies the indoor temperature and thermal loads for different controller gain values.
 - simulation_period.ipynb : studies the indoor temperature and thermal loads in august
-- walls_out:
+- walls_out: exterior wall characteristics 
 
 For these codes, it is required that the file dm4bem.py is in the same folder as those ones in order for them to compile without errors.
